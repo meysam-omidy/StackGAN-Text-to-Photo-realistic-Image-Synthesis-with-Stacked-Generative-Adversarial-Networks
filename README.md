@@ -1,3 +1,5 @@
+![2025-03-07 14_02_57-StackGAN Text to Photo-realistic Image Synthesis with Stacked Generative Adversa](https://github.com/user-attachments/assets/41375aa4-3ce6-4c32-acff-374d0e704887)
+
 ## Overview
 This repository contains the implementation of the paper "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks" by Han Zhang et al ([link to the paper](https://arxiv.org/abs/1612.03242)). StackGAN is a framework that generates high-resolution, photo-realistic images from text descriptions. It decomposes the problem into two stages:
 
