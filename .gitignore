@@ -1,0 +1,34 @@
+/CUB_200_2011/
+/birds/
+/runs/
+/generated/
+/f/
+/file.ipynb
+/includes.txt
+/generated_stage1.png
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# Weights and locally downloaded data
+*.pt
+*.pth
+*.pickle
+*.pkl
+
+# Local configuration and credentials
+.env
+.env.*
+.aws/
+.codex/
+.agents/
+.vscode/
+.DS_Store
+Thumbs.db
+
+tests
